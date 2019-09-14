@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SquareEquationSolver.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="Source1.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
